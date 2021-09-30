@@ -1,0 +1,113 @@
+.contenedor{
+    width: 400px;
+    height: 300px;
+    display: inline-flex;
+    flex-direction: column;
+    background-color:white;
+    border-style: solid;
+    align-items: flex-end;
+
+}
+.item1{
+    background-color: red;
+    width: 30%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item2{
+    background-color: blue;
+    width: 30%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    }
+.item3{
+    background-color: green;
+    width: 30%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+        }
+
+ .contenedor2{
+            width: 400px;
+            height: 300px;
+            display: inline-flex;
+            flex-direction: row-reverse;
+            background-color:white;
+            border-style: solid;
+            align-items: flex-start;
+            align-items: center;       
+            
+            }
+.item4{
+             background-color: red;
+            width: 33%;
+            height: 100px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+.item5{
+            background-color: blue;
+            width: 33%;
+            height: 100px;
+            display: flex;
+            justify-content: center;
+            align-items: center;      
+                        
+      }
+.item6{
+                background-color: green;
+            width: 34%;
+            height: 100px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+                            }
+                    
+                    
+                    
+                .contenedor3{
+                            width: 800px;
+                            height:100px;
+                            display: inline-flex;
+                            flex-direction: row;
+                            background-color:white;
+                            border-style: solid;
+                        
+                            justify-content: space-between;
+                                
+                                        
+                            }
+                            .item7{
+                                background-color: red;
+                                width: 100px;
+                                height: 100px;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                    }
+                            .item8{
+                                background-color: blue;
+                                width: 100px;
+                                height: 100px;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;      
+                                            
+                                }
+                            .item9{
+                                background-color: green;
+                                width: 100px;
+                                height: 100px;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                                }
+
